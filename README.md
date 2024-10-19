@@ -7,6 +7,14 @@ Languages and frameworks, I have explored are:
 [![My Skills](https://skillicons.dev/icons?i=swift,java,kotlin,androidstudio,flutter,dart,c,cpp)](https://skillicons.dev)
 
 ## Experience 📖
+### Vayu Technology | iOS Developer | [App Store](https://apps.apple.com/in/app/equilibrium-by-vayu-technology/id1518731500) 
+* Redesigned the Equilibrium app (available on App Store) from UIKit to SwiftUI, enhancing UI/UX.
+* Utilized @AppStorage and UserDefaults for storing login and user data.
+* Implemented biometric authentication (FaceID/TouchID) for secure login.
+* Integrated Keychain Access for storing login credentials securely.
+* Automated user login via FaceID/TouchID without re-entering credentials.
+* Developed JSON file generation from user responses for app usage tracking.
+
 ### iOS Developer Intern [Apr 22 - Jul 22 / 3 Months] | Take it Smart (OPC) pvt. ltd.
 * Created application and worked extensively on SwiftUI .
 * Worked on the basics of iOS Development.
